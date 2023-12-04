@@ -1,6 +1,6 @@
 import React from 'react';
 import './home.css';
-import FeaturedInfo from '../featuredInfo/FeaturedInfo';
+import FeaturedInfo from '../../components/featuredInfo/FeaturedInfo';
 
 const Home = () => {
   return (
